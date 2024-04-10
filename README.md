@@ -58,6 +58,7 @@ python manage.py runserver 0:8000 o python manage.py runserver 0.0.0.0:8000
 #  Gracias 
 
 **Colaboradores**
+
 gschama
 
 ***KSM***
